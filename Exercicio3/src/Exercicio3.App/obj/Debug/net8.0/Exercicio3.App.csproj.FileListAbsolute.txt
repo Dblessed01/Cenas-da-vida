@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\bin\Debug\net8.0\Exercicio3.App.exe
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\bin\Debug\net8.0\Exercicio3.App.deps.json
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\bin\Debug\net8.0\Exercicio3.App.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\bin\Debug\net8.0\Exercicio3.App.dll
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\bin\Debug\net8.0\Exercicio3.App.pdb
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.dll
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\refint\Exercicio3.App.dll
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.pdb
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\Exercicio3.App.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\Programação\Exercicio3\src\Exercicio3.App\obj\Debug\net8.0\ref\Exercicio3.App.dll
