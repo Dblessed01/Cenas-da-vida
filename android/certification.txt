@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Peso Baseada em Ciência 1.0
+---------------------------------------------------
+
+app_name - 						Peso Baseada em Ciência
+app_alias - 					pesobaseadaemcincia
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Setubal
+app_author_country - 			Portugal
+app_password - 					5yHL0gzQChYI
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 4th of October 2025 06:04:09 PM
+
+https://webintoapp.com
+---------------------------------------------------
+
